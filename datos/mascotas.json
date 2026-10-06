@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "linchy",
+        "especie":"gato",
+        "edad": 7,
+        "descripcion": "Gata hembra de caracter tranquilo", 
+        "estado": "adoptada",
+        "imagen": "/img/mascota.png"
+    },
+    {
+        "id": 2,
+        "nombre": "chacho",
+        "especie":"perro",
+        "edad": 5,
+        "descripcion": "Perro macho muy jugueton y de caracter docil", 
+        "estado": "reservada",
+        "imagen": "/img/mmascota.png"
+    },
+    {
+        "id": 3,
+        "nombre": "pocha",
+        "especie":"cata",
+        "edad": 4,
+        "descripcion": "Catita habla mucho y aprende facilmente nuevas palabras", 
+        "estado": "adopcion",
+        "imagen": "/img/mascota.png"
+    },
+    {
+        "id": 4,
+        "nombre": "candela",
+        "especie":"perro",
+        "edad": 8,
+        "descripcion": "Perra hembra de caracter tranquilo", 
+        "estado": "adopcion",
+        "imagen": "/img/mascota.png"
+    },
+    {
+        "id": 5,
+        "nombre": "ocoyino",
+        "especie":"gato",
+        "edad": 7,
+        "descripcion": "Gato macho de caracter tranquilo y muy casero. Castrado", 
+        "estado": "aoptada",
+        "imagen": "/img/mascota.png"
+    }
+]
