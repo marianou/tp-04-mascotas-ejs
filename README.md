@@ -26,19 +26,19 @@ Para detener el servidor se debe presionar las teclas CTRL + C.
 ## Estructura de vistas
 * views/
 *   |-- layouts/
-*       |-- main.ejs
+*   |    ||-- main.ejs
 *   |-- partials/
-*   |   |-- encabezado.ejs
-*   |   |-- pie.ejs
+*   |    ||-- encabezado.ejs
+*   |    ||-- pie.ejs
 *   |-- mascotas/
-*   |   |-- lista.ejs
-*   |   |-- detalle.ejs
-*   |   |-- nueva.ejs
+*   |    ||-- lista.ejs
+*   |    ||-- detalle.ejs
+*   |    ||-- nueva.ejs
 *   |-- inicio.ejs
 *   |-- no-encontrado.ejs
 
 ## Recursos estáticos
-* Imagen: /public/img/mascota.png
+* Imagenes: /public/img/mascota.png - /public/img/logo.png
 * Hoja de estilos: /public/css/estilos.css
 * Scripts: /public/js/app.js
 
