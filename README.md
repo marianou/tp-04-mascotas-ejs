@@ -24,18 +24,18 @@ Para detener el servidor se debe presionar las teclas CTRL + C.
 * POST: http://localhost:3000/mascotas (Envio de datos del Formulario para guardar la nueva mascota)
 
 ## Estructura de vistas
-* views/
-*   |-- layouts/
-*   |    -- main.ejs
-*   |-- partials/
-*   |    -- encabezado.ejs
-*   |    -- pie.ejs
-*   |-- mascotas/
-*   |    -- lista.ejs
-*   |    -- detalle.ejs
-*   |    -- nueva.ejs
-*   |-- inicio.ejs
-*   |-- no-encontrado.ejs
+views/
+* layouts/
+*        |-- main.ejs
+* partials/
+*        |-- encabezado.ejs
+*        |-- pie.ejs
+* mascotas/
+*        |-- lista.ejs
+*        |-- detalle.ejs
+*        |-- nueva.ejs
+* inicio.ejs
+* no-encontrado.ejs
 
 ## Recursos estáticos
 * Imagenes: /public/img/mascota.png - /public/img/logo.png
