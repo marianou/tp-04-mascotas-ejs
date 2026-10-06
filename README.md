@@ -26,14 +26,14 @@ Para detener el servidor se debe presionar las teclas CTRL + C.
 ## Estructura de vistas
 * views/
 *   |-- layouts/
-*   |    ||-- main.ejs
+*   |    -- main.ejs
 *   |-- partials/
-*   |    ||-- encabezado.ejs
-*   |    ||-- pie.ejs
+*   |    -- encabezado.ejs
+*   |    -- pie.ejs
 *   |-- mascotas/
-*   |    ||-- lista.ejs
-*   |    ||-- detalle.ejs
-*   |    ||-- nueva.ejs
+*   |    -- lista.ejs
+*   |    -- detalle.ejs
+*   |    -- nueva.ejs
 *   |-- inicio.ejs
 *   |-- no-encontrado.ejs
 
